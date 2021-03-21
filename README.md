@@ -1,6 +1,16 @@
-<p align='center'>
-<img src="./pics/微信搜一搜.png" width=400 >
-</p>
+
+## 一些闲话：
+
+> 1. **介绍**：本项目是一套完整的刷题计划，旨在帮助大家少走弯路，循序渐进学算法，[关注作者](#关于作者)
+> 2. **PDF版本** ： [「代码随想录」算法精讲 PDF 版本](https://mp.weixin.qq.com/s/RsdcQ9umo09R6cfnwXZlrQ) 。
+> 3. **知识星球** : 面试技巧/如何选择offer/大厂内推/职场规则/简历修改/技术分享/程序人生。欢迎加入[我的知识星球](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ) 。
+> 4. **转载须知** ：以下所有文章如非文首说明皆为我（[程序员Carl](https://github.com/youngyangyang04)）的原创。引用本项目文章请注明出处，发现恶意抄袭或搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！
+
+<p align="center">
+<a href="https://github.com/youngyangyang04/leetcode-master" target="_blank">
+	<img src="https://img-blog.csdnimg.cn/20210318112734278.png" width="300"/>
+</a>
+
 <p align="center">
   <a href="https://github.com/youngyangyang04/leetcode-master"><img src="https://img.shields.io/badge/Github-leetcode--master-lightgrey" alt=""></a>
   <a href="https://img-blog.csdnimg.cn/20201115103410182.png"><img src="https://img.shields.io/badge/刷题-微信群-green" alt=""></a>
@@ -9,16 +19,6 @@
   <a href="https://www.zhihu.com/people/sun-xiu-yang-64"><img src="https://img.shields.io/badge/知乎-代码随想录-blue" alt=""></a>
   <a href="https://www.toutiao.com/c/user/60356270818/#mid=1633692776932365"><img src="https://img.shields.io/badge/头条-代码随想录-red" alt=""></a>
 </p>
-
-
-目录：
-=================
-
-* [算法面试思维导图](#算法面试思维导图)
-* [B站算法视频讲解](#B站算法视频讲解)
-* [LeetCode 刷题攻略](#LeetCode-刷题攻略) 
-* [算法模板](#算法模板)
-* [关于作者](#关于作者)
 
 # 算法面试思维导图
 
@@ -61,11 +61,11 @@
 
 ## 如何使用该刷题攻略
 
-电脑端还看不到留言，大家可以在公众号[「代码随想录」](https://img-blog.csdnimg.cn/20201124161234338.png)，后台回复：力扣刷题指南，便可以获得手机版刷题指南，看完就会发现有很多录友（代码随想录的朋友们）在文章下留言打卡，这份刷题顺序和题解已经陪伴了上万录友了，同时也说明文章的质量是经过上万人的考验！
+电脑端还看不到留言，大家可以在公众号[「代码随想录」](https://img-blog.csdnimg.cn/20201124161234338.png)，左下角有「算法汇总」，这是手机版刷题攻略，看完就会发现有很多录友（代码随想录的朋友们）在文章下留言打卡，这份刷题顺序和题解已经陪伴了上万录友了，同时也说明文章的质量是经过上万人的考验！
 
 欢迎每一位学习算法的小伙伴加入到这个学习阵营来！
 
-**目前已经更新了，数组-> 链表-> 哈希表->字符串->栈与队列->树->回溯->贪心，八个专题了，即将开始动态规划！**
+**目前已经更新了，数组-> 链表-> 哈希表->字符串->栈与队列->树->回溯->贪心，八个专题了，正在讲解动态规划！**
 
 在刷题指南中，每个专题开始都有理论基础篇，并不像是教科书般的理论介绍，而是从实战中归纳需要的基础知识。每个专题结束都有总结篇，最这个专题的归纳总结。
 
@@ -79,16 +79,6 @@
 
 准备好了么，刷题攻略开始咯，go go go！
 
-## 资源下载
-
-**本资源由代码随想录原创出品：**
-
-* [二叉树学习手册PDF开放下载！！](https://mp.weixin.qq.com/s/uSyeCq0UF6kwRKcWkLnXuw)
-* [回溯算法学习手册PDF开放下载！！](https://mp.weixin.qq.com/s/aSToAWOPnPV4GiDf9n0p-w)
-* [贪心算法学习手册PDF开放下载！！](https://mp.weixin.qq.com/s/dUUWPVB7aVMpStPOG8cKnQ)
-* [背包问题学习手册PDF开放下载！](https://mp.weixin.qq.com/s/X220c9ouxSW-gBrKC8ZAEw)
-
-（将陆续整理各个专题的PDF下载版本）
 
 ## 前序
 
@@ -98,6 +88,7 @@
 * 编程素养
     * [看了这么多代码，谈一谈代码风格！](https://mp.weixin.qq.com/s/UR9ztxz3AyL3qdHn_zMbqw)
     * [力扣上的代码想在本地编译运行？](https://mp.weixin.qq.com/s/r1696t8lvcw7Rz4gb_jacw)
+    * [什么是核心代码模式，什么又是ACM模式？](https://mp.weixin.qq.com/s/TSEBJoeCB0dVVXFnlmES3A)
 * 工具 
     * [一站式vim配置](https://github.com/youngyangyang04/PowerVim)
     * [保姆级Git入门教程，万字详解](https://mp.weixin.qq.com/s/Q_O0ey4C9tryPZaZeJocbA)
@@ -119,6 +110,7 @@
     * [通过一道面试题目，讲一讲递归算法的时间复杂度！](https://mp.weixin.qq.com/s/I6ZXFbw09NR31F5CJR_geQ)
     * [本周小结！（算法性能分析系列一）](https://mp.weixin.qq.com/s/5m8xDbGUeGgYJsESeg5ITQ)
     * [关于空间复杂度，可能有几个疑问？](https://mp.weixin.qq.com/s/IPv4pTD6UxKkFBkgeDCZyg)
+    * [递归算法的时间与空间复杂度分析！](https://mp.weixin.qq.com/s/zLeRB-GPc3q4DG-a5cQLVw)
 
 （持续更新中.....）
 
@@ -137,6 +129,7 @@
 2. [链表：听说用虚拟头节点会方便很多？](https://mp.weixin.qq.com/s/slM1CH5Ew9XzK93YOQYSjA)
 3. [链表：一道题目考察了常见的五个操作！](https://mp.weixin.qq.com/s/Cf95Lc6brKL4g2j8YyF3Mg)
 4. [链表：听说过两天反转链表又写不出来了？](https://mp.weixin.qq.com/s/pnvVP-0ZM7epB8y3w_Njwg)
+5. [链表：删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/solution/dai-ma-sui-xiang-lu-19-shan-chu-lian-bia-2hxt/)
 5. [链表：环找到了，那入口呢？](https://mp.weixin.qq.com/s/_QVP3IkRZWx9zIpQRgajzA)
 6. [链表：总结篇！](https://mp.weixin.qq.com/s/vK0JjSTHfpAbs8evz5hH8A)
 
@@ -360,6 +353,7 @@
 39. [动态规划：最长递增子序列](https://mp.weixin.qq.com/s/f8nLO3JGfgriXep_gJQpqQ)
 40. [动态规划：最长连续递增序列](https://mp.weixin.qq.com/s/c0Nn0TtjkTISVdqRsyMmyA)
 41. [动态规划：最长重复子数组](https://mp.weixin.qq.com/s/U5WaWqBwdoxzQDotOdWqZg)
+42. [动态规划：最长公共子序列](https://mp.weixin.qq.com/s/Qq0q4HaE4TyasCTj2WGFOg)
 
 
 
@@ -407,3 +401,4 @@
 <a name="公众号"></a>
 
 ![](./pics/公众号.png)
+
